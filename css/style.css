@@ -145,15 +145,14 @@ p2 {
 
 
 /****************************
-PAGE: SITE GALLERY
+PAGE: PROJECTS GALLERY
 ****************************/
 
-p {
+#projects-text {
   text-align: center;
+  font-size: 1.4em;
   font-family: 'Roboto', sans-serif;
 }
-
-
 
 /****************************
 PAGE: VIDEO GALLERY
@@ -204,6 +203,10 @@ PAGE: CONTACT
 
 #contact-icons {
   font-size: 1em;
+}
+
+#contact-icons.location {
+   text-align: center;
 }
 
 /****************************
